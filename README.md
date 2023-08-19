@@ -11,7 +11,6 @@
 - 🤔  I’m looking for help with diving deeper into advanced concepts in Next and optimizing ROS-based applications.
 - 💬 Ask me about anything related to React and Robot Operating System (ROS), I'd be happy to help!
 - 📫 You can reach me via email at marobahlalele910@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/hlalele-maroba-0b0001211/
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love experimenting with new coding techniques and enjoy exploring the intersection of technology and creativity.
 
   
