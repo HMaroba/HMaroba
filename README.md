@@ -1,4 +1,4 @@
-### Hi there my name is Hlalele Maroba 👋
+## Hi there my name is Hlalele Maroba 👋
 
 - 🌍  I’m based in Lesotho.
 - 🔭  I’m currently working on various projects involving Next.js and Flutter.
